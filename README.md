@@ -15,7 +15,7 @@
 - [Piotr Gankiewicz. .NET Core Microservices (Video) 2017](https://github.com/szymczakk/Actio.net)
 ##
 - [-= eShopOnContainers =- .NET Microservices. Architecture for Containerized .NET Applications](https://github.com/dotnet-architecture/eShopOnContainers)
-- [Creating Mobile Apps with Xamarin.Forms Book First Edition](https://github.com/xamarin/xamarin-forms-book-samples)
+- [Creating Mobile Apps with Xamarin.Forms Book](https://github.com/xamarin/xamarin-forms-book-samples)
 - [Jim Bennett. Xamarin in Action 2018](https://www.manning.com/books/xamarin-in-action)
 ##
 - [Голдштейн С., Зурбалев Д., Флатов И. Оптимизация приложений на платформе .NET 2014](https://github.com/Apress/pro-.net-perf)
