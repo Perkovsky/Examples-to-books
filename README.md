@@ -1,5 +1,7 @@
 # Examples to books
 
+- [What-is-New-CSharp-7x](https://github.com/Ky7m/DemoCode)
+##
 - [Adam Freeman. Pro ASP.NET Core MVC 2, 7th edition 2017](https://github.com/Apress/pro-asp.net-core-mvc-2)
 - [Чамберс Д., Пэкетт Д., Тиммс С. ASP.NET Core. Разработка приложений 2018](https://github.com/AspNetMonsters/AlpineSkiHouse)
 ##
