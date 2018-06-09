@@ -5,6 +5,7 @@
 ##
 - [Adam Freeman. Essential Docker for ASP.NET Core MVC 2017](https://github.com/Apress/esntl-docker-for-asp.net-core-mvc)
 - [Chris Small. Docker for ASP.NET Core MVC (Video) 2018](https://github.com/PacktPublishing/Docker-for-ASP.NET-Core-MVC-)
+- [Elton Stoneman. Modernizing .NET Framework Apps with Docker 2017](https://github.com/sixeyed/ndc-london-2017)
 ##
 - [Gaurav Aroraa. Building Microservices with .NET Core 2017](https://github.com/PacktPublishing/Building-Microservices-with-DotNET-Core)
 - [Gaurav Aroraa. Building Microservices with .NET Core, 2d Edition 2018](https://github.com/PacktPublishing/Building-Microservices-with-.NET-Core-2.0-Second-Edition)
