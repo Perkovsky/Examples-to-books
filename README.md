@@ -6,6 +6,7 @@
 - [Чамберс Д., Пэкетт Д., Тиммс С. ASP.NET Core. Разработка приложений 2018](https://github.com/AspNetMonsters/AlpineSkiHouse)
 ##
 - [Adam Freeman. Essential Docker for ASP.NET Core MVC 2017](https://github.com/Apress/esntl-docker-for-asp.net-core-mvc)
+- [Lee Brandt. Docker for .NET Developers with Visual Studio (Video) 2018](https://github.com/Perkovsky/Docker-for-.NET-Developers-with-Visual-Studio)
 - [Chris Small. Docker for ASP.NET Core MVC (Video) 2018](https://github.com/PacktPublishing/Docker-for-ASP.NET-Core-MVC-)
 - [Elton Stoneman. Modernizing .NET Framework Apps with Docker 2017](https://github.com/sixeyed/ndc-london-2017)
 ##
