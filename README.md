@@ -5,6 +5,7 @@
 - [Adam Freeman. Pro ASP.NET Core MVC 2, 7th edition 2017](https://github.com/Apress/pro-asp.net-core-mvc-2)
 - [Чамберс Д., Пэкетт Д., Тиммс С. ASP.NET Core. Разработка приложений 2018](https://github.com/AspNetMonsters/AlpineSkiHouse)
 - [Gill Cleeren. Building an Enterprise Application with ASP.NET Core MVC (Video) 2017](https://github.com/GillCleeren/BethanysPieShop)
+- [Roland Guijt. Getting Started with ASP.NET Core SignalR (Video) 2018](https://github.com/RolandGuijt/GettingStartedWithSignalR)
 ##
 - [Adam Freeman. Essential Docker for ASP.NET Core MVC 2017](https://github.com/Apress/esntl-docker-for-asp.net-core-mvc)
 - [Lee Brandt. Docker for .NET Developers with Visual Studio (Video) 2018](https://github.com/Perkovsky/Docker-for-.NET-Developers-with-Visual-Studio)
