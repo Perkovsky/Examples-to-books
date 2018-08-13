@@ -22,3 +22,5 @@
 - [Gill Cleeren. Building an Enterprise Mobile Application with Xamarin.Forms (Video) 2018](https://github.com/GillCleeren/BethanysPieShopMobile)
 ##
 - [Голдштейн С., Зурбалев Д., Флатов И. Оптимизация приложений на платформе .NET 2014](https://github.com/Apress/pro-.net-perf)
+##
+- [Луис Атенсио. Функциональное программирование на JavaScript. Как улучшить код JavaScript-программ 2017](https://github.com/luijar/functional-programming-js)
