@@ -1,6 +1,7 @@
 # Examples to books
 
 - [What-is-New-CSharp-7x](https://github.com/Ky7m/DemoCode)
+- [Голдштейн С., Зурбалев Д., Флатов И. Оптимизация приложений на платформе .NET 2014](https://github.com/Apress/pro-.net-perf)
 ##
 - [Adam Freeman. Pro ASP.NET Core MVC 2, 7th edition 2017](https://github.com/Apress/pro-asp.net-core-mvc-2)
 - [Чамберс Д., Пэкетт Д., Тиммс С. ASP.NET Core. Разработка приложений 2018](https://github.com/AspNetMonsters/AlpineSkiHouse)
@@ -20,7 +21,5 @@
 - [Creating Mobile Apps with Xamarin.Forms Book](https://github.com/xamarin/xamarin-forms-book-samples)
 - [Jim Bennett. Xamarin in Action 2018](https://www.manning.com/books/xamarin-in-action)
 - [Gill Cleeren. Building an Enterprise Mobile Application with Xamarin.Forms (Video) 2018](https://github.com/GillCleeren/BethanysPieShopMobile)
-##
-- [Голдштейн С., Зурбалев Д., Флатов И. Оптимизация приложений на платформе .NET 2014](https://github.com/Apress/pro-.net-perf)
 ##
 - [Луис Атенсио. Функциональное программирование на JavaScript. Как улучшить код JavaScript-программ 2017](https://github.com/luijar/functional-programming-js)
