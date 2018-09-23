@@ -25,3 +25,4 @@
 ##
 - [Луис Атенсио. Функциональное программирование на JavaScript. Как улучшить код JavaScript-программ 2017](https://github.com/luijar/functional-programming-js)
 - [Владилен Минин. Фреймворк Vue.js. Часть 2. Практика. Разработка SPA (Video) 2018](https://github.com/vladilenm/vue-practice)
+- [Adam Freeman. Pro Vue.js 2 2018](https://github.com/Apress/pro-vue-js-2)
