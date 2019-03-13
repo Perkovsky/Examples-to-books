@@ -17,6 +17,7 @@
 - [Gaurav Aroraa. Building Microservices with .NET Core 2.0, 2d Edition 2017](https://github.com/PacktPublishing/Building-Microservices-with-.NET-Core-2.0-Second-Edition)
 - [Kevin Hoffman. Building Microservices with ASP.NET Core 2017](https://github.com/microservices-aspnetcore)
 - [Piotr Gankiewicz. .NET Core Microservices (Video) 2017](https://github.com/PacktPublishing/.NET-Core-Microservices)
+- [Prajeesh Prathap. Hands-On Reactive Microservices in .NET Core (Video) 2019](https://github.com/PacktPublishing/Hands-On-Reactive-Microservices-in-.NET-Core-3)
 ##
 - [-= eShopOnContainers =- .NET Microservices. Architecture for Containerized .NET Applications](https://github.com/dotnet-architecture/eShopOnContainers)
 - [Creating Mobile Apps with Xamarin.Forms Book](https://github.com/xamarin/xamarin-forms-book-samples)
