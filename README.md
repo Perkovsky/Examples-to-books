@@ -25,6 +25,8 @@
 - [Gill Cleeren. Building an Enterprise Mobile Application with Xamarin.Forms (Video) 2018](https://github.com/GillCleeren/BethanysPieShopMobile)
 ##
 - [Луис Атенсио. Функциональное программирование на JavaScript. Как улучшить код JavaScript-программ 2017](https://github.com/luijar/functional-programming-js)
+- [Shaun Wassell. JavaScript: Test-Driven Development (ES6) 2019](https://github.com/Perkovsky/JavaScript-TDD-ES6)
+##
 - [Владилен Минин. Фреймворк Vue.js. Часть 2. Практика. Разработка SPA (Video) 2018](https://github.com/vladilenm/vue-practice)
 - [Константин Кокорин. Vue.js 2.5 - Создаем сайт на Vue.JS с Firebase, Vuex & Vue Router. Практика (Video) 2018](https://github.com/Perkovsky/Vue.js-Kokorin-Practice)
 - [Adam Freeman. Pro Vue.js 2 2018](https://github.com/Apress/pro-vue-js-2)
