@@ -30,6 +30,7 @@
 - [Владилен Минин. Фреймворк Vue.js. Часть 2. Практика. Разработка SPA (Video) 2018](https://github.com/vladilenm/vue-practice)
 - [Константин Кокорин. Vue.js 2.5 - Создаем сайт на Vue.JS с Firebase, Vuex & Vue Router. Практика (Video) 2018](https://github.com/Perkovsky/Vue.js-Kokorin-Practice)
 - [Adam Freeman. Pro Vue.js 2 2018](https://github.com/Apress/pro-vue-js-2)
+- [Stuart Ratcliffe. ASP.NET Core 2 and Vue.js - Full Stack Web Development with Vue, Vuex 2018](https://github.com/PacktPublishing/ASP.NET-Core-2-and-Vue.js)
 ##
 - [Голдштейн С., Зурбалев Д., Флатов И. Оптимизация приложений на платформе .NET 2014](https://github.com/Apress/pro-.net-perf)
 - [Glenn Block. API Development in .NET with GraphQL 2018](https://github.com/Perkovsky/API-Development-in-.NET-with-GraphQL)
