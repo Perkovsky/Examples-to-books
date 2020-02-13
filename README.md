@@ -33,6 +33,8 @@
 - [Stuart Ratcliffe. ASP.NET Core 2 and Vue.js - Full Stack Web Development with Vue, Vuex 2018](https://github.com/PacktPublishing/ASP.NET-Core-2-and-Vue.js)
 - [Haider Rehman. Full Stack Web Development with Vue.js & Node.js 2019](https://github.com/PacktPublishing/Full-Stack-Web-Development-With-Vue.js-and-Node.js)
 - [Shaun Pelling. Build Web Apps with Vue.js & Firebase (Ninja Smoothies, Real-Time Chat, Geo Ninjas) 2019](https://github.com/crea00/vue-firebase)
+- [Reed Barger. Full-Stack Vue (Vue Router, Vuex, Vuetify) with GraphQL (Apollo 2, MongoDB) - The Ultimate Guide 2019](https://github.com/peelmicro/full-stack-vue-with-graphql-the-ultimate-guide)
+  * [Mirror](https://github.com/PacktPublishing/Full-Stack-Vue-with-GraphQL---The-Ultimate-Guide)
 ##
 - [Голдштейн С., Зурбалев Д., Флатов И. Оптимизация приложений на платформе .NET 2014](https://github.com/Apress/pro-.net-perf)
 - [Glenn Block. API Development in .NET with GraphQL 2018](https://github.com/Perkovsky/API-Development-in-.NET-with-GraphQL)
