@@ -1,10 +1,10 @@
 # Examples to books
 
-- [What-is-New-CSharp-7x](https://github.com/Ky7m/DemoCode)
-- [Onur Gumus. 50 Things You’ve Been Doing Wrong in C# and .NET Core 2020](https://github.com/PacktPublishing/50-Things-You-ve-Been-Doing-Wrong-in-C-and-.NET-Core)
+- [What-is-New-CSharp-7x (Video)](https://github.com/Ky7m/DemoCode)
+- [Onur Gumus. 50 Things You’ve Been Doing Wrong in C# and .NET Core (Video) 2020](https://github.com/PacktPublishing/50-Things-You-ve-Been-Doing-Wrong-in-C-and-.NET-Core)
 - [Голдштейн С., Зурбалев Д., Флатов И. Оптимизация приложений на платформе .NET 2014](https://github.com/Apress/pro-.net-perf)
-- [Glenn Block. API Development in .NET with GraphQL 2018](https://github.com/Perkovsky/API-Development-in-.NET-with-GraphQL)
-- [CRUD MongoDB Atlas using C#](https://github.com/areaintel/c-sharp-asp-net-web-app-crud-with-mongodb-atlas)
+- [Glenn Block. API Development in .NET with GraphQL (Video) 2018](https://github.com/Perkovsky/API-Development-in-.NET-with-GraphQL)
+- [CRUD MongoDB Atlas using C# (Video)](https://github.com/areaintel/c-sharp-asp-net-web-app-crud-with-mongodb-atlas)
 ##
 - [Adam Freeman. Pro ASP.NET Core MVC 2, 7th edition 2017](https://github.com/Apress/pro-asp.net-core-mvc-2)
 - [Чамберс Д., Пэкетт Д., Тиммс С. ASP.NET Core. Разработка приложений 2018](https://github.com/AspNetMonsters/AlpineSkiHouse)
@@ -28,13 +28,13 @@
 - [Gill Cleeren. Building an Enterprise Mobile Application with Xamarin.Forms (Video) 2018](https://github.com/GillCleeren/BethanysPieShopMobile)
 ##
 - [Луис Атенсио. Функциональное программирование на JavaScript. Как улучшить код JavaScript-программ 2017](https://github.com/luijar/functional-programming-js)
-- [Shaun Wassell. JavaScript: Test-Driven Development (ES6) 2019](https://github.com/Perkovsky/JavaScript-TDD-ES6)
+- [Shaun Wassell. JavaScript: Test-Driven Development (ES6) (Video) 2019](https://github.com/Perkovsky/JavaScript-TDD-ES6)
 ##
 - [Владилен Минин. Фреймворк Vue.js. Часть 2. Практика. Разработка SPA (Video) 2018](https://github.com/vladilenm/vue-practice)
 - [Константин Кокорин. Vue.js 2.5 - Создаем сайт на Vue.JS с Firebase, Vuex & Vue Router. Практика (Video) 2018](https://github.com/Perkovsky/Vue.js-Kokorin-Practice)
 - [Adam Freeman. Pro Vue.js 2 2018](https://github.com/Apress/pro-vue-js-2)
-- [Stuart Ratcliffe. ASP.NET Core 2 and Vue.js - Full Stack Web Development with Vue, Vuex 2018](https://github.com/PacktPublishing/ASP.NET-Core-2-and-Vue.js)
-- [Haider Rehman. Full Stack Web Development with Vue.js & Node.js 2019](https://github.com/PacktPublishing/Full-Stack-Web-Development-With-Vue.js-and-Node.js)
-- [Shaun Pelling. Build Web Apps with Vue.js & Firebase (Ninja Smoothies, Real-Time Chat, Geo Ninjas) 2019](https://github.com/crea00/vue-firebase)
-- [Reed Barger. Full-Stack Vue (Vue Router, Vuex, Vuetify) with GraphQL (Apollo 2, MongoDB) - The Ultimate Guide 2019](https://github.com/peelmicro/full-stack-vue-with-graphql-the-ultimate-guide)
+- [Stuart Ratcliffe. ASP.NET Core 2 and Vue.js - Full Stack Web Development with Vue, Vuex (Video) 2018](https://github.com/PacktPublishing/ASP.NET-Core-2-and-Vue.js)
+- [Haider Rehman. Full Stack Web Development with Vue.js & Node.js (Video) 2019](https://github.com/PacktPublishing/Full-Stack-Web-Development-With-Vue.js-and-Node.js)
+- [Shaun Pelling. Build Web Apps with Vue.js & Firebase (Ninja Smoothies, Real-Time Chat, Geo Ninjas) (Video) 2019](https://github.com/crea00/vue-firebase)
+- [Reed Barger. Full-Stack Vue (Vue Router, Vuex, Vuetify) with GraphQL (Apollo 2, MongoDB) - The Ultimate Guide (Video) 2019](https://github.com/peelmicro/full-stack-vue-with-graphql-the-ultimate-guide)
   * [Mirror](https://github.com/PacktPublishing/Full-Stack-Vue-with-GraphQL---The-Ultimate-Guide)
