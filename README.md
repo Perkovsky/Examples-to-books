@@ -1,6 +1,7 @@
 # Examples to books
 
 - [What-is-New-CSharp-7x (Video)](https://github.com/Ky7m/DemoCode)
+- [Walt Ritscher. Advanced C#: Thread-Safe Data with Concurrent Collections (Video) 2020](https://github.com/linkedinlearning/concurrent-collections-2824383)
 - [Onur Gumus. 50 Things You’ve Been Doing Wrong in C# and .NET Core (Video) 2020](https://github.com/PacktPublishing/50-Things-You-ve-Been-Doing-Wrong-in-C-and-.NET-Core)
 - [Голдштейн С., Зурбалев Д., Флатов И. Оптимизация приложений на платформе .NET 2014](https://github.com/Apress/pro-.net-perf)
 - [Glenn Block. API Development in .NET with GraphQL (Video) 2018](https://github.com/Perkovsky/API-Development-in-.NET-with-GraphQL)
