@@ -40,3 +40,6 @@
 - [Shaun Pelling. Build Web Apps with Vue.js & Firebase (Ninja Smoothies, Real-Time Chat, Geo Ninjas) (Video) 2019](https://github.com/crea00/vue-firebase)
 - [Reed Barger. Full-Stack Vue (Vue Router, Vuex, Vuetify) with GraphQL (Apollo 2, MongoDB) - The Ultimate Guide (Video) 2019](https://github.com/peelmicro/full-stack-vue-with-graphql-the-ultimate-guide)
   * [Mirror](https://github.com/PacktPublishing/Full-Stack-Vue-with-GraphQL---The-Ultimate-Guide)
+##
+- [Владилен Минин. Node.js - Практический курс: Express.js, MongoDB (Video) 2019](https://github.com/vladilenm/nodejs-course-static)
+- [Владилен Минин. Node.js - Практический курс (REST API): Express.js, MySQL, GraphQL (Video) 2019](https://github.com/vladilenm/nodejs-course-rest-api)
