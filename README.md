@@ -34,13 +34,13 @@
 ##
 - [Владилен Минин. Фреймворк Vue.js. Часть 2. Практика. Разработка SPA (Video) 2018](https://github.com/vladilenm/vue-practice)
 - [Константин Кокорин. Vue.js 2.5 - Создаем сайт на Vue.JS с Firebase, Vuex & Vue Router. Практика (Video) 2018](https://github.com/Perkovsky/Vue.js-Kokorin-Practice)
+- [Shaun Pelling. Build Web Apps with Vue.js & Firebase (Ninja Smoothies, Real-Time Chat, Geo Ninjas) (Video) 2019](https://github.com/crea00/vue-firebase)
 - [Adam Freeman. Pro Vue.js 2 2018](https://github.com/Apress/pro-vue-js-2)
 - [Stuart Ratcliffe. ASP.NET Core 2 and Vue.js - Full Stack Web Development with Vue, Vuex (Video) 2018](https://github.com/PacktPublishing/ASP.NET-Core-2-and-Vue.js)
+##
 - [Haider Rehman. Full Stack Web Development with Vue.js & Node.js (Video) 2019](https://github.com/PacktPublishing/Full-Stack-Web-Development-With-Vue.js-and-Node.js)
-- [Shaun Pelling. Build Web Apps with Vue.js & Firebase (Ninja Smoothies, Real-Time Chat, Geo Ninjas) (Video) 2019](https://github.com/crea00/vue-firebase)
 - [Reed Barger. Full-Stack Vue (Vue Router, Vuex, Vuetify) with GraphQL (Apollo 2, MongoDB) - The Ultimate Guide (Video) 2019](https://github.com/peelmicro/full-stack-vue-with-graphql-the-ultimate-guide)
   * [Mirror](https://github.com/PacktPublishing/Full-Stack-Vue-with-GraphQL---The-Ultimate-Guide)
-##
 - [Владилен Минин. Node.js - Практический курс: Express.js, MongoDB (Video) 2019](https://github.com/vladilenm/nodejs-course-static)
 - [Владилен Минин. Node.js - Практический курс (REST API): Express.js, MySQL, GraphQL (Video) 2019](https://github.com/vladilenm/nodejs-course-rest-api)
-- [Emmanuel Henri. Node.js - Securing RESTful APIs 2020](https://github.com/DoubleD1994/nodejs-api-security)
+- [Emmanuel Henri. Node.js - Securing RESTful APIs (Video) 2020](https://github.com/DoubleD1994/nodejs-api-security)
