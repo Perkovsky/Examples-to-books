@@ -44,3 +44,4 @@
 - [Владилен Минин. Node.js - Практический курс: Express.js, MongoDB (Video) 2019](https://github.com/vladilenm/nodejs-course-static)
 - [Владилен Минин. Node.js - Практический курс (REST API): Express.js, MySQL, GraphQL (Video) 2019](https://github.com/vladilenm/nodejs-course-rest-api)
 - [Emmanuel Henri. Node.js - Securing RESTful APIs (Video) 2020](https://github.com/DoubleD1994/nodejs-api-security)
+- [Murtez Alrohani. Node.js Unit Testing In-Depth (Video) 2020](https://github.com/Perkovsky/Node.js-Unit-Testing-In-Depth)
