@@ -5,6 +5,8 @@
 - [Onur Gumus. 50 Things You’ve Been Doing Wrong in C# and .NET Core (Video) 2020](https://github.com/PacktPublishing/50-Things-You-ve-Been-Doing-Wrong-in-C-and-.NET-Core)
 - [Голдштейн С., Зурбалев Д., Флатов И. Оптимизация приложений на платформе .NET 2014](https://github.com/Apress/pro-.net-perf)
 - [Glenn Block. API Development in .NET with GraphQL (Video) 2018](https://github.com/Perkovsky/API-Development-in-.NET-with-GraphQL)
+- [Les Jackson. The Complete ASP.NET Core 3 API Tutorial 2020](https://github.com/binarythistle/Complete-ASP-NET-3-API-Tutorial-Book)
+  * [Secure Daemon Client](https://github.com/binarythistle/Secure-Daemon-Client)
 - [CRUD MongoDB Atlas using C# (Video)](https://github.com/areaintel/c-sharp-asp-net-web-app-crud-with-mongodb-atlas)
 ##
 - [Adam Freeman. Pro ASP.NET Core MVC 2, 7th edition 2017](https://github.com/Apress/pro-asp.net-core-mvc-2)
