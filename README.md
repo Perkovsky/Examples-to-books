@@ -31,6 +31,8 @@
 - [Jim Bennett. Xamarin in Action 2018](https://www.manning.com/books/xamarin-in-action)
 - [Gill Cleeren. Building an Enterprise Mobile Application with Xamarin.Forms (Video) 2018](https://github.com/GillCleeren/BethanysPieShopMobile)
 ##
+- [Дмитрий Валак. Основы HTML и CSS (Video) 2019](https://github.com/Perkovsky/Perkovsky-Html-Css-Valak-Materials)
+##
 - [Луис Атенсио. Функциональное программирование на JavaScript. Как улучшить код JavaScript-программ 2017](https://github.com/luijar/functional-programming-js)
 - [Shaun Wassell. JavaScript: Test-Driven Development (ES6) (Video) 2019](https://github.com/Perkovsky/JavaScript-TDD-ES6)
 ##
